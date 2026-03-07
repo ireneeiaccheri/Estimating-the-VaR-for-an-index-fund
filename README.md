@@ -1,4 +1,4 @@
-This quantitative finance project demonstrates how to best describe and quantify risk in time series data through an analysis performed in MATLAB. It compares different approaches, with a primary focus on the GARCH model.
+This quantitative finance project shows how to best describe and quantify risk in time series data through an analysis performed in MATLAB. It compares different approaches, with a primary focus on the GARCH model.
 
 The main idea is to estimate Value at Risk (VaR) and see how traditional models hold up against the GARCH approach. Real-world financial markets frequently experience "volatility clustering," and by comparing the computations and plots—as detailed in the accompanying paper—we concluded that the GARCH model more accurately captures potential losses.
 
